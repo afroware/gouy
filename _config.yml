@@ -1,4 +1,4 @@
-repository: afroware/gouy/tree/master
+repository: afroware/gouy/
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: Jekyll Gouy for documentation
 company_name: Afroware
 # this appears in the footer
 
-github_editme_path: afroware/gouy/
+github_editme_path: afroware/gouy/tree/master
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: idrbwjekyll
